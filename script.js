@@ -40,3 +40,5 @@ let a =
         branch : 'IT'
     }
 ]
+
+console.table(a)
